@@ -10,8 +10,15 @@
 - JavaScript
 - Git e GitHub
 
-## 📂 Projetos
 Confira meus projetos abaixo 👇
+
+## 📂 Projetos
+
+🔹 [Dashboard Interativo](link do projeto)  
+Projeto desenvolvido com HTML, CSS e JavaScript com foco em interatividade e layout moderno.
+
+🔹 [Site Barbearia](LINK_DO_REPOSITORIO)  
+Site institucional responsivo para barbearia, com foco em design e experiência do usuário.
 
 <!--
 **willianjsilva-dev/willianjsilva-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
