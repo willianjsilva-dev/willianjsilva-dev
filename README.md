@@ -17,7 +17,7 @@ Confira meus projetos abaixo 👇
 🔹 [Dashboard Interativo](https://github.com/willianjsilva-dev/-Dashboard-Interativo-com-HTML-CSS-e-JavaScript.git)  
 Projeto desenvolvido com HTML, CSS e JavaScript com foco em interatividade e layout moderno.
 
-🔹 [Site Barbearia](https://github.com/willianjsilva-dev/Site-barbearia.git)  
+🔹 [site Barbearia](https://github.com/willianjsilva-dev/Site-barbearia.git)  
 Site institucional responsivo para barbearia, com foco em design e experiência do usuário.
 
 <!--
